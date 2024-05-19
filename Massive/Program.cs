@@ -94,7 +94,8 @@ class Program
                             int yu = int.Parse(Console.ReadLine());
                             Random ry = new Random();
                             int[][] ty = new int[yu][];
-                        
+                            
+                            //Привет
                             //Значения для Random's
                             //Console.Write("Минимальное число a: ");
                             //int aib = int.Parse(Console.ReadLine());
