@@ -1,0 +1,14 @@
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\bin\Debug\net8.0\Massive.exe
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\bin\Debug\net8.0\Massive.deps.json
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\bin\Debug\net8.0\Massive.runtimeconfig.json
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\bin\Debug\net8.0\Massive.dll
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\bin\Debug\net8.0\Massive.pdb
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.AssemblyInfoInputs.cache
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.AssemblyInfo.cs
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.dll
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\refint\Massive.dll
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.pdb
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.genruntimeconfig.cache
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\ref\Massive.dll
