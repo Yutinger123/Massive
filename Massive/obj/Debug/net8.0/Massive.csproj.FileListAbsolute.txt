@@ -12,3 +12,4 @@ C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\refint
 C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.pdb
 C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.genruntimeconfig.cache
 C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\ref\Massive.dll
+C:\Users\ideapad 3 14ada05\RiderProjects\Massive\Massive\obj\Debug\net8.0\Massive.sourcelink.json
